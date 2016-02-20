@@ -1,7 +1,7 @@
 # Basic operating system for phone
 
-Features \n
-Add contacts \n
-Delete contacts
-View Contacts
+Features:
+Add contacts,
+Delete contacts,
+View Contacts,
 Edit Contacts
